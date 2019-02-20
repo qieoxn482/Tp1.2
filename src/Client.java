@@ -5,4 +5,8 @@ public class Client {
 	public Client(String nom){
 		this.nom = nom;
 	}
+
+	public String getNom() {
+		return nom;
+	}
 }
