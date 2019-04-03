@@ -1,0 +1,3 @@
+Specifications:
+
+Le clients veut que le program soit ecrit en object orienter.
