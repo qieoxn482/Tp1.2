@@ -1,0 +1,3 @@
+Specification:
+Le client veut que le code soit ecrit de maniere lineaire et non pas unitaire (parce qu'il veut que le code soit difficile a 
+lire si des competiteurs reussi a hacker son system)
